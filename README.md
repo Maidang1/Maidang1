@@ -3,7 +3,7 @@
 I'm MaiDang
 A student love JavaScript
 
-+ blog [http://blog.vulpix.top/](http://blog.vulpix.top/)
++ blog [http://www.felixwliu.cn/](http://www.felixwliu.cn/)
 + juejin [https://juejin.cn/user/1732486058737917](https://juejin.cn/user/1732486058737917)
 
 
