@@ -1,4 +1,1 @@
-### Hi boys 👋
-
-I'm MaiDang
-
+### I'm MaiDang
