@@ -10,9 +10,12 @@
 
 
 <a href="https://juejin.cn/user/1732486058737917">
-  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1732486058737917&hide_border=true" alt="maidang 的掘金数据" style="zoom:100%;" align="left"/>
+  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1732486058737917" alt="maidang 的掘金数据" style="zoom:100%;" align="left"/>
 </a>
 
-[![Maidang's GitHub stats](https://github-readme-stats.vercel.app/api?username=maidang1)](https://github.com/Maidang1)
+<a href="https://github.com/Maidang1">
+  <img src="https://github-readme-stats.vercel.app/api?username=maidang1" alt="Maidang's GitHub stats" style="zoom:100%;" align="left"/>
+</a>
+
 
 
