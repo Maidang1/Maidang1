@@ -8,5 +8,11 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/44914786?s=48&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/12554859?s=48&v=4"></code>
 
-### other
-<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1732486058737917&hide_border=true" alt="maidang 的掘金数据" style="zoom:100%;" align="left"/>
+
+<a href="https://juejin.cn/user/1732486058737917">
+  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1732486058737917&hide_border=true" alt="maidang 的掘金数据" style="zoom:100%;" align="left"/>
+</a>
+
+[![Maidang's GitHub stats](https://github-readme-stats.vercel.app/api?username=maidang1)](https://github.com/Maidang1)
+
+
